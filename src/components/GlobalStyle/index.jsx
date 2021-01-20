@@ -27,6 +27,10 @@ const GlobalStyle = createGlobalStyle`
         max-width: 100%; 
     }
 
+    a{
+        color: black;
+        
+    }
     a:visited {
         color: black;
         
